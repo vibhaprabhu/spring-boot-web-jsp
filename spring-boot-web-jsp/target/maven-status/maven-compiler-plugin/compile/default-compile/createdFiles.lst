@@ -1,2 +1,6 @@
-com\springboot\WelcomeController.class
+com\springboot\dao\UserDao.class
 com\springboot\SpringBootWebApplication.class
+com\springboot\service\WelcomeService.class
+com\springboot\controller\WelcomeController.class
+com\springboot\entity\User.class
+com\springboot\config\SpringMongoConfig1.class
